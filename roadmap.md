@@ -4,4 +4,4 @@
 - [x] Verify the page and interactions at desktop and mobile sizes.
 - [x] Apply the supplied logo and blue-and-black brand colors.
 - [x] Refresh the AI banner while preserving its original wording.
-- [ ] Check the updated logo, banner, and course browsing.
+- [x] Check the updated logo, banner, and course browsing.
