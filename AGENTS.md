@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the reference recreation on the index route and store downloaded page imagery as Lovable asset pointers, so the homepage remains the primary experience and media stays outside the source repository.
+- Keep course browsing and branch details in accessible dialogs on the homepage; enquiry forms are explicitly unconnected until a real submission service is supplied.
