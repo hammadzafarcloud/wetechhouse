@@ -10,4 +10,5 @@
 <!-- LOVABLE:END -->
 
 - Keep the reference recreation on the index route and store downloaded page imagery as Lovable asset pointers, so the homepage remains the primary experience and media stays outside the source repository.
-- Keep course browsing and branch details in accessible dialogs on the homepage; enquiry forms are explicitly unconnected until a real submission service is supplied.
+- Keep course browsing and enquiries in accessible dialogs on the homepage; reuse the contact form for inline and dialog enquiries.
+- Validate enquiries with a shared Zod schema and save them through a public server function into a service-role-only, RLS-enabled contact table; this protects submissions from visitor reads.
