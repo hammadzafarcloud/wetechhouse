@@ -5,7 +5,7 @@
 - [x] Apply the supplied logo and blue-and-black brand colors.
 - [x] Refresh the AI banner while preserving its original wording.
 - [x] Check the updated logo, banner, and course browsing.
-- [ ] Modernize the header and colorful program sections from the new references; feature AI courses.
-- [ ] Replace all branch/city content with the single Gulshan Ravi campus and location map.
-- [ ] Add and verify a working contact form with stored submissions.
-- [ ] Verify desktop and mobile layout and navigation.
+- [x] Modernize the header and colorful program sections from the new references; feature AI courses.
+- [x] Replace all branch/city content with the single Gulshan Ravi campus and location map.
+- [x] Add and verify a working contact form with stored submissions.
+- [x] Verify desktop and mobile layout and navigation.
